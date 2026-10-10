@@ -61,3 +61,7 @@ Customizable analog clock view for Android: colors, stroke widths, numbers and s
 ### 📫 Get in touch
 
 Looking for a developer for your next website, tool or automation? Visit **[itbehrend.de](https://itbehrend.de)**.
+
+If one of my open-source projects saves you time, you can support my work with a coffee:
+
+<a href="https://buymeacoffee.com/florianbehrend"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
